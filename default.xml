@@ -4,7 +4,7 @@
     <remote name="repo-testing" fetch=".." />
     <default revision="master" remote="repo-testing" sync-j="4" />
     
-    <project name="main-project" path="base/main-proj" />
+    <project name="main-project" path="base/main-proj" groups="notdefault" />
     
 </manifest>
 
