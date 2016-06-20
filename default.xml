@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+    <remote name="repo-testing" fetch=".." />
+    <default revision="master" remote="repo-testing" sync-j="4" />
+    
+</manifest>
+
